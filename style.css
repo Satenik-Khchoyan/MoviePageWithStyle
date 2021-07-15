@@ -1,0 +1,28 @@
+table{
+    color: rgb(255, 123, 47);
+}
+body{
+    background-color: khaki; 
+    color:  rgb(255, 123, 47); 
+    font-size: medium;
+}
+div#text{
+    text-align: center;
+}
+td#link{
+    width: 250;
+}
+footer{
+    background-color:rgb(128, 115, 0); 
+    height: 50px;
+}
+p#video{
+    text-align: center;
+}
+iframe{
+    width: 500;
+    height: 300;
+}
+img{
+    height: 300;
+}
